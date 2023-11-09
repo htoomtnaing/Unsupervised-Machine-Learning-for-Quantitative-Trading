@@ -9,7 +9,7 @@ This project includes:
 6) Project Presentation Slides
 <br/>
 
-<b>Executive Summary: <b/><br/>
+Executive Summary: <br/>
 The financial industry continually seeks innovative strategies to enhance portfolio management and 
 investment returns. This report explores the integration of unsupervised machine learning techniques—
 specifically K-Means and Agglomerative Clustering—into the development of trading strategies. By 
