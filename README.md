@@ -1,6 +1,6 @@
 # Unsupervised-Machine-Learning-for-Quantitative-Trading
 
-This project includes:
+This respository includes:
 1) Data Extraction
 2) K-Means Clustering Model
 3) Agglomerative Clustering Model + Comparison of optimal portfolios from K-Means and Agglomerative
