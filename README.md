@@ -1,5 +1,7 @@
 # Unsupervised-Machine-Learning-for-Quantitative-Trading
 
+<h2>Contents</h2>
+
 This respository includes:
 1) Data Extraction
 2) K-Means Clustering Model
@@ -7,14 +9,13 @@ This respository includes:
 4) data.csv - dataset used for clustering
 5) Project Report
 6) Project Presentation Slides
-<br/>
 
-Executive Summary: <br/><br/>
+<h2> Executive Summary: </h2>
 The financial industry continually seeks innovative strategies to enhance portfolio management and 
-investment returns. This report explores the integration of unsupervised machine learning techniques—
+investment returns. This report explores the integration of unsupervised machine learning techniques, 
 specifically K-Means and Agglomerative Clustering—into the development of trading strategies. By 
-identifying coherent clusters of financial assets, these techniques have shown promise in improving riskadjusted returns, 
-outperforming traditional benchmarks such as the SPY Buy & Hold strategy. <br/>
+identifying coherent clusters of financial assets, these techniques have shown promise in improving risk-adjusted returns, 
+outperforming traditional benchmarks such as the SPY Buy & Hold strategy. <br/><br/>
 
 Our analysis demonstrates that clustering-based strategies, particularly employing K-Means Clustering
 with k = 6 and Agglomerative Clustering with k=3, offered a superior balance of risk and return, as 
